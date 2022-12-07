@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS**
-- 🔭 I’m currently working on [task management](https://task-management-bieu.netlify.app/)
+- 🔭 My grand project [taskMe] MERN Stack (https://task-management-bieu.netlify.app/)
 
 - 👯 Front End [link](https://github.com/bieudo1/task_management_fe.git)
 
