@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I'm using JavaScript and experienced with ReactJS, NodeJS**
-- 🔭 My grand project [taskMe](https://task-management-bieu.netlify.app/)
+- 🔭 My grand project [TaskMe MERN Stack](https://task-management-bieu.netlify.app/)
 
 - 👯 Front End [link](https://github.com/bieudo1/task_management_fe.git)
 
