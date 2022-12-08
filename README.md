@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Đình Biểu</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS**
-- 🔭 My grand project [taskMe] (https://task-management-bieu.netlify.app/) MERN Stack
+- 🌱 I'm using JavaScript and experienced with ReactJS, NodeJS**
+- 🔭 My grand project [taskMe](https://task-management-bieu.netlify.app/)
 
 - 👯 Front End [link](https://github.com/bieudo1/task_management_fe.git)
 
